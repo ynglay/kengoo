@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Stats" type="flex">
+    <CLASSES>
+      <root url="file://D:/Install/Programming/Flex/Gaming/Hi-ReS-Stats-master/src" />
+      <root url="file://D:/rzarich/Libs/Stats/src" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

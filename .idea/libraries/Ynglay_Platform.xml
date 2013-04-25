@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Ynglay Platform" type="flex">
+    <CLASSES>
+      <root url="file://D:/rzarich/Workspaces/ynglay/paltform-ynglay/src" />
+      <root url="file://$PROJECT_DIR$/../platform-ynglay/src" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

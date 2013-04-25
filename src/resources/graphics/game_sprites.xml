@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="game_sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="button_back"	x="102"	y="62"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+	<SubTexture name="hippotamo"	x="0"	y="0"	width="280"	height="60" frameX="-0" frameY="-0" frameWidth="280" frameHeight="60"/>
+	<SubTexture name="kengoo"	x="0"	y="62"	width="100"	height="130" frameX="-0" frameY="-0" frameWidth="100" frameHeight="130"/>
+</TextureAtlas>

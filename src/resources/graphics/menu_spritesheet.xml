@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="sprites.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="button_about"	x="317"	y="0"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+	<SubTexture name="button_back"	x="383"	y="0"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+	<SubTexture name="button_help"	x="317"	y="132"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+	<SubTexture name="button_pause"	x="317"	y="66"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+	<SubTexture name="button_play"	x="383"	y="66"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+	<SubTexture name="button_play_big"	x="0"	y="0"	width="250"	height="250" frameX="-0" frameY="-0" frameWidth="250" frameHeight="250"/>
+	<SubTexture name="button_replay"	x="251"	y="66"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+	<SubTexture name="button_sound_off"	x="251"	y="132"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+	<SubTexture name="button_sound_on"	x="251"	y="0"	width="65"	height="65" frameX="-0" frameY="-0" frameWidth="65" frameHeight="65"/>
+</TextureAtlas>
