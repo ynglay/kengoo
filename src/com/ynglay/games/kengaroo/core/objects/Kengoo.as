@@ -23,7 +23,7 @@ public class Kengoo extends Sprite
     public static const JUMP_ACCELERATION:int = 10;
     public static const MAX_FALLING_SPEED:Number = 9.8;
     public static const DEFAULT_ANGLE:Number = 90;
-    public static const MIN_ANGLE:Number = 110;
+    public static const MIN_ANGLE:Number = 70;
     public static const MAX_ANGLE:Number = 110;
 
     private var texture:Image;
